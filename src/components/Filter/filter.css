@@ -1,0 +1,12 @@
+.filter-label {
+  display: flex;
+  flex-direction: column;
+  gap: 7px;
+  font-size: 13px;
+  font-weight: 400;
+  margin-bottom: 15px;
+}
+.filter-label input {
+  font-size: 18px;
+  padding: 7px;
+}/*# sourceMappingURL=filter.css.map */
