@@ -15,7 +15,6 @@ const validateSchema = Yup.object().shape({
 })
 
 
-
 const ContactForm = () => {
   const contacts = useSelector(getContacts);
   const dispatch = useDispatch();
